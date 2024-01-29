@@ -2,7 +2,7 @@
 <h1>Covid-19 Data Analysis Visualization using Tableu</h1>
 
 <h3>Dashboard Overview</h3>:
-Tableau dashboard serves as a powerful tool for policymakers, healthcare professionals, and the general public to understand and analyze the impact of COVID-19 in India. The diverse range of visualizations provides a holistic view of the pandemic, allowing users to make informed decisions based on the presented data.
+This Tableau dashboard serves as a powerful tool for policymakers, healthcare professionals, and the general public to understand and analyze the impact of COVID-19 in India. It holds a diverse range of visualizations which provides a holistic view of the pandemic, allowing users to make informed decisions based on the presented data.
 
 <h3Key Visualization and Metrics</h3>
 <ul>
