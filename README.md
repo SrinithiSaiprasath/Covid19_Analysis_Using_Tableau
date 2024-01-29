@@ -1,11 +1,11 @@
 # Covid_Analysis_Using_Tableu
 <h1>Covid-19 Data Analysis Visualization using Tableu</h1>
 
-<h3>Dashboard Overview</h3>:
+<h3>Dashboard Overview</h3>
 This Tableau dashboard serves as a powerful tool for policymakers, healthcare professionals, and the general public to understand and analyze the impact of COVID-19 in India. It holds a diverse range of visualizations which provides a holistic view of the pandemic, allowing users to make informed decisions based on the presented data.
 
-<h3Key Visualization and Metrics</h3>
-<ul>
+<h3><u>Key Visualization and Metrics</u></h3>
+<ol>
 <li><b>Age Group Details</b></li>
   <ul>
   <li>Visualization: Bar chart or pie chart showcasing the distribution of COVID-19 cases across different age groups.</li>
@@ -47,5 +47,5 @@ This Tableau dashboard serves as a powerful tool for policymakers, healthcare pr
   <li>Visualization:  Line chart depicting the recovery rate over time.</li>
   <li>Insights: Indicates the efficiency of recovery efforts and the overall recovery trend.</li>
   </ul>
-
+</ol>
 </ul>
